@@ -6,8 +6,8 @@
 3. [Datasets](#datasets)  
 4. [Stack](#stack)  
 5. [key results](#key-results)  
-6. [Code stucture](#code--stucture)  
-7. [Team organisation](#team--organisation)
+6. [Code stucture](#code-stucture)  
+7. [Team organisation](#team-organisation)
 
 ## Problems
 Olist currently struggles with limited visibility into who its best customers are and how often they come back, unpredictable delivery performance across sellers and regions, and no reliable way to forecast sales or manage inventory by category. At the same time, customer feedback goes unanalyzed, marketplace dynamics (seller activity and seasonality) remain opaque, regional revenue patterns and fraud risks aren’t flagged, and there’s no benchmark against competitors. Solving these gaps will enable more targeted marketing, smoother operations, smarter inventory planning, stronger customer satisfaction, and a clearer competitive edge.
