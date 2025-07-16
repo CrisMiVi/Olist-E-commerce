@@ -10,6 +10,7 @@
 7. [License](#license)
 
 ## Problems
+Olist currently struggles with limited visibility into who its best customers are and how often they come back, unpredictable delivery performance across sellers and regions, and no reliable way to forecast sales or manage inventory by category. At the same time, customer feedback goes unanalyzed, marketplace dynamics (seller activity and seasonality) remain opaque, regional revenue patterns and fraud risks aren’t flagged, and there’s no benchmark against competitors. Solving these gaps will enable more targeted marketing, smoother operations, smarter inventory planning, stronger customer satisfaction, and a clearer competitive edge.
 
 ## Goal
 
