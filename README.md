@@ -31,8 +31,4 @@ The folders of the project are
 - 
 
 **Team organisation**
-We followed an **Agile methodology** throughout the project, working in 5-day sprints. Daily stand-up meetings (dailies) allowed us to stay aligned, quickly address blockers, and adapt our priorities as needed. This approach helped ensure consistent progress and team collaboration.
-
-
-
-
+Contributions and improvements are welcome! 
