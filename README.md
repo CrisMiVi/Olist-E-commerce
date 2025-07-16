@@ -5,7 +5,7 @@
 2. [Goals](#goals)  
 3. [Datasets](#datasets)  
 4. [Stack](#stack)  
-5. [key results](#key results)  
+5. [key results](#key-results)  
 6. [Code stucture](#code--stucture)  
 7. [Team organisation](#team--organisation)
 
