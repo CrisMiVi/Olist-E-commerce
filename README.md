@@ -2,9 +2,6 @@
 [![CI](https://github.com/CrisMiVi/Olist-E-commerce/actions/workflows/ci.yml/badge.svg)](https://github.com/CrisMiVi/Olist-E-commerce/actions)  
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org)
 
-<p align="center">
-  <img src="assets/banner.png" alt="Olist Analysis Banner" width="600">
-</p>
 
 ## Table of Contents
 1. [About](#about)  
