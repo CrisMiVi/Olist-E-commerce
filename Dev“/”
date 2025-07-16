@@ -1,1 +1,5 @@
+--- Remove  261831 duplicated values
 
+SELECT DISTINCT
+    *
+FROM olist_geolocation_dataset
