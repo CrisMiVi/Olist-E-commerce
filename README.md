@@ -1,13 +1,13 @@
 # 🔍 Olist E‑commerce Analysis  
 
 ## Table of Contents
-1. [About](#about)  
-2. [Setup](#setup)  
-3. [Folder Structure](#folder-structure)  
-4. [Usage](#usage)  
-5. [Examples & Screenshots](#examples--screenshots)  
-6. [Contributing](#contributing)  
-7. [License](#license)
+1. [Problems](#problems)  
+2. [Goals](#goals)  
+3. [Datasets](#datasets)  
+4. [Stack](#stack)  
+5. [key results](#key--results)  
+6. [Code stucture](#code--stucture)  
+7. [Team organisation](#team--organisation)
 
 ## Problems
 Olist currently struggles with limited visibility into who its best customers are and how often they come back, unpredictable delivery performance across sellers and regions, and no reliable way to forecast sales or manage inventory by category. At the same time, customer feedback goes unanalyzed, marketplace dynamics (seller activity and seasonality) remain opaque, regional revenue patterns and fraud risks aren’t flagged, and there’s no benchmark against competitors. Solving these gaps will enable more targeted marketing, smoother operations, smarter inventory planning, stronger customer satisfaction, and a clearer competitive edge.
@@ -60,9 +60,6 @@ Olist currently struggles with limited visibility into who its best customers ar
 - **Github** for version control and **Github Actions** 
 
 ## Key results
-
-## Code stucture
-The folders of the project are
 
 ## Code stucture
 The folders of the project are
