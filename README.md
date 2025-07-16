@@ -9,26 +9,26 @@
 6. [Contributing](#contributing)  
 7. [License](#license)
 
-**Problems**: 
+## Problems
 
-**Goal**: 
+## Goal
 
-**Datasets from Kaggle**: 
+## Datasets from Kaggle
 
-**Stack**:
+## Stack:
 - **BigQuery** used for both OLTP and OLAP workloads
 - **Python**, data manipulation
 - **LookerStudio** for data visualisation
 - **Github** for version control and **Github Actions** 
 
-**Key results**
+## Key results
 
-**Code stucture**
+## Code stucture
 The folders of the project are
 
-**Code stucture**
+## Code stucture
 The folders of the project are
 - 
 
-**Team organisation**
+## Team organisation
 Contributions and improvements are welcome! 
