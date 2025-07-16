@@ -2,4 +2,4 @@
 
 SELECT DISTINCT
     *
-FROM tranquil-gasket-457509-b3.Olist.olist_geolocation_dataset
+FROM olist_geolocation_dataset
