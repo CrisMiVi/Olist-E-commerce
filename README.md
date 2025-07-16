@@ -25,7 +25,6 @@ This project ingests Olist’s e‑commerce data into BigQuery, then uses Python
 
 ## Folder Structure
 1. **Clone the repo:**
-## Folder Structure
 ```text
 Olist-E-commerce/
 ├── sql/                    # BigQuery DDL & analytical SQL queries
