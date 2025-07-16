@@ -5,17 +5,17 @@
 ## Setup
 
 1. Clone repo:
-   ```bash
+   ```
    git clone git@github.com:CrisMiVi/Olist-E-commerce.git
    cd Olist-E-commerce
    ```
-2. Create & activate a Python virtual environment:
-   ```bash
+2. Create & activate a Python venv:
+   ```
    python3 -m venv venv
    source venv/bin/activate
    ```
-3. Install dependencies:
-   ```bash
+3. Install deps:
+   ```
    pip install -r requirements.txt
    ```
 
@@ -31,11 +31,11 @@
 ## Usage
 
 - Run a Python analysis:
-  ```bash
+  ```
   python src/analysis/sales_metrics.py
   ```
 - Open notebooks:
-  ```bash
+  ```
   jupyter lab
   ```
 
