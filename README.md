@@ -24,7 +24,34 @@ Olist currently struggles with limited visibility into who its best customers ar
 5. **Mitigate Risk & Benchmark**  
    Detect transactional anomalies for fraud prevention and measure operational metrics against competitors.  
 
-## Datasets from Kaggle
+## Datasets
+1. **olist_orders_dataset (99k):**
+   Description: Connects order details with four other tables.
+   Key Fields: order_id, customer_id, order_purchase_timestamp, order_status.
+2. **olist_order_items_dataset (113k):**
+   Description: Contains details of purchased items, including shipping and pricing.
+   Key Fields: order_id, product_id, seller_id, price, freight_value.
+3. **olist_order_reviews_dataset (99k):**
+   Description: Captures customer reviews on purchased products.
+   Key Fields: review_id, order_id, review_score, review_comment_title, review_comment_message.
+4. **olist_products_dataset (33k):**
+   Description: Contains product-related details like ID, category, and measurements.
+   Key Fields: product_id, product_category.
+5. **olist_order_payments_dataset (103k):**
+   Description: Includes payment details for orders.
+   Key Fields: order_id, payment_type, payment_installments, payment_value.
+6. **olist_customers_dataset (99k):**
+   Description: Details customer information.
+   Key Fields: customer_id, customer_unique_id, customer_city, customer_state.
+7. **olist_geolocation_dataset (1000k):**
+   Description: Provides geographical information for sellers and customers.
+   Key Fields: geolocation_zip_code_prefix, geolocation_city, geolocation_state.
+8. **olist_sellers_dataset (31k):**
+   Description: Contains information on registered sellers.
+   Key Fields: seller_id, seller_zip_code_prefix, seller_city, seller_state.
+9. **olist_product_category_name_translation (71):**
+   Description: Translates product category names.
+   Key Fields: product_category_name, product_category_name_english.
 
 ## Stack:
 - **BigQuery** used for both OLTP and OLAP workloads
