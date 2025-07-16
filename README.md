@@ -1,44 +1,30 @@
-# Olist E‑commerce Analysis
+# 🔍 Olist E‑commerce Analysis  
+[![CI](https://github.com/CrisMiVi/Olist-E-commerce/actions/workflows/ci.yml/badge.svg)](https://github.com/CrisMiVi/Olist-E-commerce/actions)  
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org)
 
-**Purpose:** Analyze Olist sales, shipping, payments, and reviews using BigQuery + Python.
+<p align="center">
+  <img src="assets/banner.png" alt="Olist Analysis Banner" width="600">
+</p>
+
+## Table of Contents
+1. [About](#about)  
+2. [Setup](#setup)  
+3. [Folder Structure](#folder-structure)  
+4. [Usage](#usage)  
+5. [Examples & Screenshots](#examples--screenshots)  
+6. [Contributing](#contributing)  
+7. [License](#license)
+
+## About
+This project ingests Olist’s e‑commerce data into BigQuery, then uses Python + SQL to answer key business questions:
+
+- **Monthly Revenue Trends**  
+- **Top Selling Categories & States**  
+- **Customer Satisfaction vs. Repeat Purchases**  
+- **Shipping Efficiency & Freight Cost Analysis**
 
 ## Setup
-
-1. Clone repo:
-   ```
+1. **Clone the repo:**  
+   ```bash
    git clone git@github.com:CrisMiVi/Olist-E-commerce.git
    cd Olist-E-commerce
-   ```
-2. Create & activate a Python venv:
-   ```
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-3. Install deps:
-   ```
-   pip install -r requirements.txt
-   ```
-
-## Structure
-
-- `sql/` – SQL scripts  
-- `notebooks/` – Jupyter notebooks  
-- `src/` – Python modules:
-  - `src/config.py`  
-  - `src/bigquery_client.py`  
-  - `src/analysis/`  
-
-## Usage
-
-- Run a Python analysis:
-  ```
-  python src/analysis/sales_metrics.py
-  ```
-- Open notebooks:
-  ```
-  jupyter lab
-  ```
-
-## CI
-
-See `.github/workflows/ci.yml`.
