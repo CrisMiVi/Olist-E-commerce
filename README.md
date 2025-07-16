@@ -9,38 +9,30 @@
 6. [Contributing](#contributing)  
 7. [License](#license)
 
-## About
-This project ingests Olist’s e‑commerce data into BigQuery, then uses Python + SQL to answer key business questions:
+**Problems**: 
 
-- **Monthly Revenue Trends**  
-- **Top Selling Categories & States**  
-- **Customer Satisfaction vs. Repeat Purchases**  
-- **Shipping Efficiency & Freight Cost Analysis**
+**Goal**: 
 
-## Setup
-1. **Clone the repo:**  
-   ```bash
-   git clone git@github.com:CrisMiVi/Olist-E-commerce.git
-   cd Olist-E-commerce
+**Datasets from Kaggle**: 
 
-## Folder Structure
-1. **Clone the repo:**
-```text
-Olist-E-commerce/
-├── sql/                    # BigQuery DDL & analytical SQL queries
-│   ├── 00_create_tables.sql
-│   └── queries/
-├── notebooks/              # Exploratory Jupyter notebooks
-│   ├── 01_explore_orders.ipynb
-│   └── 02_review_sentiment.ipynb
-├── src/                    # Python modules & analysis scripts
-│   ├── config.py           # BigQuery project/dataset settings
-│   ├── bigquery_client.py  # Wrapper for running queries
-│   └── analysis/           # Scripts for key metrics
-├── .github/                # GitHub Actions workflows
-│   └── workflows/ci.yml
-├── assets/                 # Images & figures for README
-├── README.md
-└── requirements.txt
+**Stack**:
+- **BigQuery** used for both OLTP and OLAP workloads
+- **Python**, data manipulation
+- **LookerStudio** for data visualisation
+- **Github** for version control and **Github Actions** 
+
+# Key results
+
+## Code stucture
+The folders of the project are
+
+## Code stucture
+The folders of the project are
+- 
+
+## Team organisation
+We followed an **Agile methodology** throughout the project, working in 5-day sprints. Daily stand-up meetings (dailies) allowed us to stay aligned, quickly address blockers, and adapt our priorities as needed. This approach helped ensure consistent progress and team collaboration.
+
+
 
 
